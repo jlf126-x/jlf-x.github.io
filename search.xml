@@ -3,9 +3,9 @@
   
     
     <entry>
-      <title>快速搭建本地运行的bolg</title>
-      <link href="/2018/10/25/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E7%9A%84bolg/"/>
-      <url>/2018/10/25/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E7%9A%84bolg/</url>
+      <title>hexo博客搭建</title>
+      <link href="/2018/10/25/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <url>/2018/10/25/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
       
         <content type="html"><![CDATA[<pre><code>Hexo是一个快速、简洁且高效的博客框架,hexo 使用Markdown解析文章，在几秒内，即可利用靓丽的主题生成警静态页面。Hexo基于Node环境、使用git打包工具运行。</code></pre>]]></content>
       
