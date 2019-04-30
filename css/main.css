@@ -1489,7 +1489,6 @@ pre .javascript .function {
   color: #999;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
-  text-align: center;
 }
 .posts-expand .post-meta .post-category-list {
   display: inline-block;
@@ -1942,7 +1941,7 @@ pre .javascript .function {
 }
 .footer {
   font-size: 14px;
-  color: #fff;
+  color: #000;
 }
 .footer img {
   border: none;
