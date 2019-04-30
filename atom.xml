@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jlfxin.xyz/"/>
-  <updated>2019-04-29T14:56:28.954Z</updated>
+  <updated>2019-04-30T05:42:32.306Z</updated>
   <id>http://jlfxin.xyz/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>MK</title>
-    <link href="http://jlfxin.xyz/2019/04/29/text/"/>
-    <id>http://jlfxin.xyz/2019/04/29/text/</id>
+    <title>Mk</title>
+    <link href="http://jlfxin.xyz/2019/04/29/Markdown/"/>
+    <id>http://jlfxin.xyz/2019/04/29/Markdown/</id>
     <published>2019-04-28T16:00:00.000Z</published>
-    <updated>2019-04-29T14:56:28.954Z</updated>
+    <updated>2019-04-30T05:42:32.306Z</updated>
     
     <summary type="html">
     
@@ -36,7 +36,7 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="http://jlfxin.xyz/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="日志" scheme="http://jlfxin.xyz/categories/journal/"/>
     
     
       <category term="Markdown" scheme="http://jlfxin.xyz/tags/Markdown/"/>
@@ -44,11 +44,11 @@
   </entry>
   
   <entry>
-    <title>hexo博客搭建</title>
-    <link href="http://jlfxin.xyz/2018/10/25/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    <id>http://jlfxin.xyz/2018/10/25/hexo博客搭建/</id>
+    <title>hexo</title>
+    <link href="http://jlfxin.xyz/2018/10/25/Hexo/"/>
+    <id>http://jlfxin.xyz/2018/10/25/Hexo/</id>
     <published>2018-10-25T05:14:17.000Z</published>
-    <updated>2019-04-29T14:20:49.261Z</updated>
+    <updated>2019-04-30T05:36:54.505Z</updated>
     
     <summary type="html">
     
@@ -65,14 +65,16 @@
       <category term="hexo" scheme="http://jlfxin.xyz/categories/hexo/"/>
     
     
+      <category term="hexo" scheme="http://jlfxin.xyz/tags/hexo/"/>
+    
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://jlfxin.xyz/2018/10/22/hello-world/"/>
-    <id>http://jlfxin.xyz/2018/10/22/hello-world/</id>
+    <link href="http://jlfxin.xyz/2018/10/22/journal/"/>
+    <id>http://jlfxin.xyz/2018/10/22/journal/</id>
     <published>2018-10-22T14:59:29.956Z</published>
-    <updated>2019-04-29T14:20:43.690Z</updated>
+    <updated>2019-04-30T05:37:47.527Z</updated>
     
     <summary type="html">
     
@@ -88,6 +90,8 @@
     
       <category term="hexo" scheme="http://jlfxin.xyz/categories/hexo/"/>
     
+    
+      <category term="日志" scheme="http://jlfxin.xyz/tags/%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
