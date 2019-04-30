@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jlfxin.xyz/"/>
-  <updated>2019-04-30T05:42:32.306Z</updated>
+  <updated>2019-04-30T13:04:56.057Z</updated>
   <id>http://jlfxin.xyz/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Mk</title>
+    <title>Markdown语法学习记录</title>
     <link href="http://jlfxin.xyz/2019/04/29/Markdown/"/>
     <id>http://jlfxin.xyz/2019/04/29/Markdown/</id>
     <published>2019-04-28T16:00:00.000Z</published>
-    <updated>2019-04-30T05:42:32.306Z</updated>
+    <updated>2019-04-30T13:04:56.057Z</updated>
     
     <summary type="html">
     
@@ -36,7 +36,7 @@
     
     </summary>
     
-      <category term="日志" scheme="http://jlfxin.xyz/categories/journal/"/>
+      <category term="学习笔记" scheme="http://jlfxin.xyz/categories/journal/"/>
     
     
       <category term="Markdown" scheme="http://jlfxin.xyz/tags/Markdown/"/>
@@ -48,7 +48,7 @@
     <link href="http://jlfxin.xyz/2018/10/25/Hexo/"/>
     <id>http://jlfxin.xyz/2018/10/25/Hexo/</id>
     <published>2018-10-25T05:14:17.000Z</published>
-    <updated>2019-04-30T05:36:54.505Z</updated>
+    <updated>2019-04-30T13:04:28.916Z</updated>
     
     <summary type="html">
     
@@ -62,7 +62,7 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://jlfxin.xyz/categories/hexo/"/>
+      <category term="随笔" scheme="http://jlfxin.xyz/categories/hexo/"/>
     
     
       <category term="hexo" scheme="http://jlfxin.xyz/tags/hexo/"/>
@@ -74,7 +74,7 @@
     <link href="http://jlfxin.xyz/2018/10/22/journal/"/>
     <id>http://jlfxin.xyz/2018/10/22/journal/</id>
     <published>2018-10-22T14:59:29.956Z</published>
-    <updated>2019-04-30T05:37:47.527Z</updated>
+    <updated>2019-04-30T13:05:02.429Z</updated>
     
     <summary type="html">
     
@@ -88,10 +88,10 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://jlfxin.xyz/categories/hexo/"/>
+      <category term="随笔" scheme="http://jlfxin.xyz/categories/hexo/"/>
     
     
-      <category term="日志" scheme="http://jlfxin.xyz/tags/%E6%97%A5%E5%BF%97/"/>
+      <category term="hexo" scheme="http://jlfxin.xyz/tags/hexo/"/>
     
   </entry>
   
