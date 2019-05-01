@@ -1489,6 +1489,7 @@ pre .javascript .function {
   color: #999;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
+  text-align: center;
 }
 .posts-expand .post-meta .post-category-list {
   display: inline-block;
@@ -3045,8 +3046,8 @@ pre .javascript .function {
   }
 }
 .post {
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   padding: 25px;
 }
 @media screen and (min-width: 1200px) {
@@ -3057,6 +3058,6 @@ pre .javascript .function {
     background-position: 50% 50%;
   }
   #footer a {
-    color: #eee;
+    color: #000;
   }
 }
