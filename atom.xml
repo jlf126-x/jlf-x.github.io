@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jlfxin.xyz/"/>
-  <updated>2019-04-30T14:36:37.665Z</updated>
+  <updated>2019-05-06T13:19:39.551Z</updated>
   <id>http://jlfxin.xyz/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>html</title>
+    <link href="http://jlfxin.xyz/2019/05/06/html/"/>
+    <id>http://jlfxin.xyz/2019/05/06/html/</id>
+    <published>2019-05-06T13:14:22.000Z</published>
+    <updated>2019-05-06T13:19:39.551Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="web前端" scheme="http://jlfxin.xyz/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="html" scheme="http://jlfxin.xyz/tags/html/"/>
+    
+  </entry>
   
   <entry>
     <title>标记语言</title>
